@@ -2,9 +2,9 @@
 
 I'm Arinzechukwu
 
-I'm a **Junior Backend Developer** with hands-on experience designing and delivering **production-ready RESTful APIs** using **ASP.NET Core** and modern backend architecture patterns.
+I'm a **Backend Developer** with hands-on experience designing and delivering **RESTful APIs** using **ASP.NET Core** and modern backend architecture patterns.
 
-I focus on building systems that are **scalable, testable, secure, and maintainable**, applying best practices such as **Clean Architecture, CQRS/MediatR, and SOLID principles**. I approach engineering with ownership — asking *why*, anticipating failure paths, and designing solutions that hold up long-term.
+I focus on following best practices while building and contributing to systems that are **scalable, testable, secure, and maintainable**, such as **Clean Architecture and SOLID principles**. 
 
 ---
 
@@ -15,8 +15,6 @@ I focus on building systems that are **scalable, testable, secure, and maintaina
 - Entity Framework Core
 - RESTful APIs
 - Clean Architecture
-- CQRS / MediatR
-- MVC, Repository Pattern
 - SOLID Principles, OOP, LINQ
 - Unit Testing
 
@@ -28,7 +26,7 @@ I focus on building systems that are **scalable, testable, secure, and maintaina
 - SQL Server
 - MySQL
 
-### Cloud & DevOps
+### Learning Cloud & DevOps
 - Azure
 - AWS
 - CI/CD Pipelines
@@ -52,7 +50,6 @@ I focus on building systems that are **scalable, testable, secure, and maintaina
 ### 🚗 Car Rental System API
 - Built a backend service for vehicle listings, bookings, and availability tracking
 - Integrated MySQL for persistent storage
-- Used CQRS and MediatR to decouple business logic
 
 ### 🏨 Hotel Booking API
 - Developed endpoints for room management, reservations, and pricing
