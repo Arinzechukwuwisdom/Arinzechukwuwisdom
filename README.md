@@ -2,9 +2,9 @@
 
 I'm Arinzechukwu
 
-I'm a **Backend Developer** with hands-on experience designing and delivering **RESTful APIs** using **ASP.NET Core** and modern backend architecture patterns.
+I'm a **Backend Developer** with hands-on experience designing and delivering RESTful APIs using **ASP.NET Core** and modern backend architecture patterns.
 
-I focus on following best practices while building and contributing to systems that are **scalable, testable, secure, and maintainable**, such as **Clean Architecture and SOLID principles**. 
+I focus on following best practices while building and contributing to systems that are scalable, testable, secure, and maintainable, such as **Clean Architecture and SOLID principles**. 
 
 ---
 
@@ -45,7 +45,7 @@ I focus on following best practices while building and contributing to systems t
 ### 📚 Library Management System API
 - Designed a RESTful API for managing books, users, and borrowing workflows
 - Implemented role-based authentication and authorization using JWT
-- Applied Clean Architecture for separation of concerns and testability
+- Applied Layered Architecture for separation of concerns and testability
 
 ### 🚗 Car Rental System API
 - Built a backend service for vehicle listings, bookings, and availability tracking
