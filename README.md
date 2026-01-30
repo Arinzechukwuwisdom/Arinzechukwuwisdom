@@ -4,7 +4,9 @@ I'm Arinzechukwu
 
 I'm a **Backend Developer** with hands-on experience designing and delivering RESTful APIs using **ASP.NET Core** and modern backend architecture patterns.
 
-I focus on following best practices while building and contributing to systems that are scalable, testable, secure, and maintainable, such as **Clean Architecture and SOLID principles**. 
+I focus on following best practices while building and contributing to systems that are scalable, testable, secure, and maintainable, such as **Clean Architecture and SOLID principles**.
+
+Currently deepening my Devops and cloud Services skills
 
 ---
 
